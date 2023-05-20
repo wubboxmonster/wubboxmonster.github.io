@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Fanmade MSM Wiki
 
 Welcome to the fanmade only msm wiki!
