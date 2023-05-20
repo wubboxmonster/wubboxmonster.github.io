@@ -11,8 +11,7 @@ This is a test page.
 
 ## Contents
 
-1. Rare Wublins
-2. Epic Wubbox
+1. [Epic Wubbox Fire Haven](wubbox-fire-haven.html)
 
 
 ## Rare Wublins
