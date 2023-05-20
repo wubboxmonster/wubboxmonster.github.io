@@ -14,7 +14,7 @@
 
 ## Description
 
-This wubbox was a fanmade wubbox that was Premiered Nov 26, 2022 on Youtube (https://www.youtube.com/watch?v=oJQhqZOkEo8)
+This wubbox was a fanmade wubbox that was Premiered Nov 26, 2022 on [Youtube](https://www.youtube.com/watch?v=oJQhqZOkEo8)
 
 ## Song
 
