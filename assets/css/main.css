@@ -2,6 +2,21 @@
   font-family: Arial, Helvetica, sans-serif;
   background-color: #fff;
 }
-img {
-  float: right;
-]
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.centered {
+    margin: 0; 
+    padding: 0;
+    text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

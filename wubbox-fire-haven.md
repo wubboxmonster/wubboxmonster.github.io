@@ -3,7 +3,8 @@ layout: default
 title: Fire Haven Epic Wubbox
 ---
 
-![fire haven epic wubbox test thingy](/assets/images/fire-haven-epic-wubbox.png){: right}
+<div class="row" markdown="1">>
+  <div class="column" markdown="1">
 
 # Epic Wubbox Fire Haven
 
@@ -33,3 +34,13 @@ This wubbox was a fanmade wubbox that was Premiered Nov 26, 2022 on [Youtube](ht
 
 ## Activation
 
+  </div>
+  <div class="column centered" markdown="1">
+
+
+![fire haven epic wubbox test thingy](/assets/images/fire-haven-epic-wubbox.png)
+
+![egg](/assets/images/EpicWubHavenEgg.png)
+
+  </div>
+</div>
