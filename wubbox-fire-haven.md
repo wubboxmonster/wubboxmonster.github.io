@@ -5,8 +5,6 @@ title: Fire Haven Epic Wubbox
 
 ![fire haven epic wubbox test thingy](/assets/images/fire-haven-epic-wubbox.png){: right}
 
-asdf
-
 # Epic Wubbox Fire Haven
 
 Not to be confused with [Epic Wubbox](https://mysingingmonsters.fandom.com/wiki/Epic_Wubbox)
