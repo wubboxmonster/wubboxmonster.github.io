@@ -22,7 +22,7 @@ There is currently no bio for chipbox. for a bio, ask [Mazz Tom](https://www.you
 
 ## Description
 
-This wubbox was a fanmade wubbox that was made on
+This wubbox was a fanmade wubbox that was made on April 30 2023 on [YouTube](https://www.youtube.com/watch?v=ulYcBBWgVBs)
 
 ## Song
 
@@ -36,9 +36,7 @@ This wubbox was a fanmade wubbox that was made on
   <div class="column centered" markdown="1">
 
 
-![fire haven epic wubbox test thingy](/assets/images/fire-haven-epic-wubbox.png)
-
-![egg](/assets/images/EpicWubHavenEgg.png)
+![chip island wubbox real](/assets/images/fCHIPBOX REAL.png)
 
   </div>
 </div>
