@@ -35,7 +35,7 @@ This wubbox was a fanmade wubbox that was made on April 30 2023 on [YouTube](htt
   </div>
 
 
-![chip island wubbox real](/assets/images/fCHIPBOX REAL.png)
+![chip island wubbox real](/assets/images/CHIPBOX REAL.png)
 
   </div>
 </div>
